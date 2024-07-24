@@ -4,19 +4,19 @@ Cara is a sleek and modern e-commerce website built entirely with HTML, CSS, and
 
 ## Features
 
-Attractive and responsive design.
+1. Attractive and responsive design.
 
-Product listings with images, descriptions, and prices.
+2. Product listings with images, descriptions, and prices.
 
-Home Section: Showcases featured products and promotions.
+3. Home Section: Showcases featured products and promotions.
 
-About Section: Provides information about the company and its mission.
+4. About Section: Provides information about the company and its mission.
 
-Contact Us Section: Allows users to get in touch with the company.
+5. Contact Us Section: Allows users to get in touch with the company.
 
-Blog Section: Displays articles and updates related to the products and industry.
+6. Blog Section: Displays articles and updates related to the products and industry.
 
-Cart Section: Enables users to view and manage their selected items.
+7. Cart Section: Enables users to view and manage their selected items.
 
 ## Technologies Used
 
